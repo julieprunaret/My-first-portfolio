@@ -11,7 +11,7 @@ Il n'est pas optimisé, le code est mal organisé, les fichiers de css/htm/javas
 Il m'a servi de laboratoire pour créer en toute liberté un site de A - Z.
 Je suis heureuse de pouvoir maintenant relever toutes les erreurs, maladresses et soucis aberrants d'optimisation qu'il comporte !
 
-
+![portfolio-2020](https://user-images.githubusercontent.com/87066549/162748473-f7b7194d-30af-40d8-825c-98e5ae539db8.png)
 
 ## 🛠 Notions appréhendées
 

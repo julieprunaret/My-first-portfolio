@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="39" viewBox="0 0 19 39">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-arrow4);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #262626;
+        stroke-width: 5px;
+      }
+    </style>
+    <clipPath id="clip-arrow4">
+      <rect width="19" height="39"/>
+    </clipPath>
+  </defs>
+  <g id="arrow4" class="cls-1">
+    <g id="Groupe_43" data-name="Groupe 43" transform="translate(-1427.679 1550.612) rotate(-90)">
+      <path id="Tracé_45" data-name="Tracé 45" class="cls-2" d="M-7661.677,1752.824l15.716,11.716,16.574-11.716" transform="translate(9177 -322)"/>
+    </g>
+  </g>
+</svg>

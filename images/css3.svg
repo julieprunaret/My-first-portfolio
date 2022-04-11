@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-css3);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-css3">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="css3" class="cls-1">
+    <path id="css3-2" data-name="css3" class="cls-2" d="M1.5,0H71.212L64.872,71.581,36.28,79.671,7.847,71.578ZM58.233,14.65,14.48,14.64l.707,8.7L48.8,23.35l-.847,9.016H25.909l.8,8.541H47.228L46.013,52.6l-9.66,2.669L26.54,52.583l-.624-7H17.252l.963,12.8,18.142,5.653L54.193,58.95l4.04-44.3Z" transform="translate(4.787 0.329)"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="28" viewBox="0 0 30 28">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-check);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <clipPath id="clip-check">
+      <rect width="30" height="28"/>
+    </clipPath>
+  </defs>
+  <g id="check" class="cls-1">
+    <g id="Groupe_555" data-name="Groupe 555" transform="translate(3 2)">
+      <g id="Groupe_176" data-name="Groupe 176">
+        <rect id="Rectangle_296" data-name="Rectangle 296" class="cls-2" width="24.268" height="23.887"/>
+        <g id="Groupe_175" data-name="Groupe 175" transform="translate(5.457 5.755)">
+          <line id="Ligne_148" data-name="Ligne 148" class="cls-2" x2="13.353" y2="12.377"/>
+          <line id="Ligne_149" data-name="Ligne 149" class="cls-2" x1="13.353" y2="12.377"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

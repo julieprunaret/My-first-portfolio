@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-unity);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-unity">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="unity" class="cls-1">
+    <path id="unity-2" data-name="unity" class="cls-2" d="M68.036,65.643l-14.7-24.616,14.7-24.616,7.18,24.616ZM35.557,63.25,17.095,45.13H46.5L61.2,69.746l-25.642-6.5Zm0-44.788,25.642-6.5L46.5,36.582H16.753c0,.342,18.8-18.12,18.8-18.12ZM73.165,0,39.659,8.547l-5.128,8.547H24.616L0,41.027,24.616,64.959h9.915l4.786,8.547,33.505,8.547,8.889-32.48-4.786-8.547,5.128-8.547L73.165,0Z" transform="translate(-0.054 -1.054)"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="62" viewBox="0 0 94 62">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-bonus-icon);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <clipPath id="clip-bonus-icon">
+      <rect width="94" height="62"/>
+    </clipPath>
+  </defs>
+  <g id="bonus-icon" class="cls-1">
+    <g id="Groupe_458" data-name="Groupe 458" transform="translate(-34.149 -101.73)">
+      <path id="Tracé_405" data-name="Tracé 405" class="cls-2" d="M38.583,115.169H123.4v13.642H38.583"/>
+      <rect id="Rectangle_335" data-name="Rectangle 335" class="cls-2" width="71.186" height="31.307" transform="translate(45.397 128.812)"/>
+      <rect id="Rectangle_336" data-name="Rectangle 336" class="cls-2" width="20.97" height="44.949" transform="translate(70.505 115.169)"/>
+      <path id="Tracé_406" data-name="Tracé 406" class="cls-2" d="M81.429,114.96H68.307a5.655,5.655,0,0,1-5.655-5.655v-.459a5.107,5.107,0,0,1,8.657-3.671Z"/>
+      <path id="Tracé_407" data-name="Tracé 407" class="cls-2" d="M80.55,114.96H93.673a5.654,5.654,0,0,0,5.654-5.655v-.459a5.106,5.106,0,0,0-8.656-3.671Z"/>
+    </g>
+  </g>
+</svg>

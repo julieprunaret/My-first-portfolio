@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-illustration);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-illustration">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="illustration" class="cls-1">
+    <g id="Groupe_522" data-name="Groupe 522" transform="translate(-160.944 4.861)">
+      <path id="Tracé_444" data-name="Tracé 444" class="cls-2" d="M230.76,36.392,198.234,68.919l-16.913,5.894,5.131-17.676,42-42L240.46,26.692"/>
+      <line id="Ligne_166" data-name="Ligne 166" class="cls-2" x2="11.782" y2="11.782" transform="translate(218.456 25.134)"/>
+      <line id="Ligne_167" data-name="Ligne 167" class="cls-2" x2="4.82" y2="4.82" transform="translate(183.739 67.502)"/>
+      <line id="Ligne_168" data-name="Ligne 168" class="cls-2" x2="11.782" y2="11.782" transform="translate(186.423 57.168)"/>
+      <path id="Tracé_445" data-name="Tracé 445" class="cls-2" d="M206.8,36.8l-13.36-15.038a7.152,7.152,0,0,0-10.322-.387h0a7.152,7.152,0,0,0-.362,9.9L196.693,46.9"/>
+      <path id="Tracé_446" data-name="Tracé 446" class="cls-2" d="M207.8,59.351l4.389,4.92s-.056.676-.076,1.719c-.132,6.874,4.362,9.281,28.216,9.281,0,0-7.406-4.393-5.8-10.44,1.907-7.17-5.687-12.951-12.228-10.578l-4.425-4.981"/>
+      <path id="Tracé_447" data-name="Tracé 447" class="cls-2" d="M214.544,71.832s8.931-3.951,6.871-9.671c0,0,7.964.519,12.906,4.836"/>
+      <line id="Ligne_169" data-name="Ligne 169" class="cls-2" y1="10.018" x2="10.115" transform="translate(212.191 54.253)"/>
+    </g>
+  </g>
+</svg>

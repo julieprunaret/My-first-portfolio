@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-litterature);
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-litterature">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="litterature" class="cls-1">
+    <g id="Groupe_259" data-name="Groupe 259" transform="translate(3.679 2.495)">
+      <path id="Soustraction_1" data-name="Soustraction 1" class="cls-2" d="M12.535,17.363H8.678A8.681,8.681,0,0,1,8.678,0H67.261a8.681,8.681,0,0,0-.173,17.361l-39.405,0V8.68H12.535v8.683Z" transform="translate(2.411)"/>
+      <path id="Soustraction_2" data-name="Soustraction 2" class="cls-2" d="M69.473,22.177H23.386V0H69.669a11.088,11.088,0,0,0-.2,22.175Zm-46.087,0h-12.3A11.138,11.138,0,0,1,8.4,21.849l7.415-15.1,7.571,15.426ZM8.238,21.807h0a11.093,11.093,0,0,1,0-21.437V21.806Z" transform="translate(6.709 17.362)"/>
+      <path id="Tracé_133" data-name="Tracé 133" class="cls-2" d="M408.034,751.326a8.751,8.751,0,1,0,0,17.5h-58.59a8.751,8.751,0,0,1,0-17.5Z" transform="translate(-340.696 -711.787)"/>
+      <path id="Tracé_134" data-name="Tracé 134" class="cls-2" d="M408.034,760.106a8.753,8.753,0,0,0,0,17.506h-58.59a8.753,8.753,0,0,1,0-17.506Z" transform="translate(-340.696 -702.971)"/>
+      <path id="Tracé_135" data-name="Tracé 135" class="cls-3" d="M362.942,767.531,355.37,752.1l-7.576,15.428V736.672h15.148Z" transform="translate(-332.847 -727.992)"/>
+    </g>
+  </g>
+</svg>

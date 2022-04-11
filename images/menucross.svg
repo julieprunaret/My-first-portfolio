@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="37" viewBox="0 0 40 37">
+  <defs>
+    <clipPath id="clip-menu-cross">
+      <rect width="40" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="menu-cross" clip-path="url(#clip-menu-cross)">
+    <g id="Groupe_577" data-name="Groupe 577">
+      <rect id="Rectangle_433" data-name="Rectangle 433" width="40.52" height="6.53" transform="translate(8.243 2) rotate(45)" fill="#499194"/>
+      <rect id="Rectangle_434" data-name="Rectangle 434" width="40.52" height="6.53" transform="translate(3.625 30.652) rotate(-45)" fill="#499194"/>
+    </g>
+  </g>
+</svg>

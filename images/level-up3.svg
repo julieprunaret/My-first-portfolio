@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="264" height="208" viewBox="0 0 264 208">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-level-up3);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="clip-level-up3">
+      <rect width="264" height="208"/>
+    </clipPath>
+  </defs>
+  <g id="level-up3" class="cls-1">
+    <g id="Groupe_548" data-name="Groupe 548" transform="translate(-2199 2999)">
+      <g id="Groupe_547" data-name="Groupe 547" transform="translate(2127.855 -2934.424)">
+        <path id="Tracé_219" data-name="Tracé 219" class="cls-2" d="M140.588,8.237H222.6V61.568L202.939,76.04H188.531v30.09h14.243" transform="translate(22.162 25.777)"/>
+        <path id="Tracé_220" data-name="Tracé 220" class="cls-2" d="M221.447,8.237h-82.01V61.568L159.1,76.04H173.5v30.09H159.261v10.146" transform="translate(20.287 25.777)"/>
+        <path id="Tracé_221" data-name="Tracé 221" class="cls-2" d="M151.373,14.186V37.723h15.513" transform="translate(39.743 35.475)"/>
+        <path id="Tracé_223" data-name="Tracé 223" class="cls-2" d="M179.546,142.055A76.772,76.772,0,1,1,280.518,69.186" transform="translate(0 0)"/>
+      </g>
+      <path id="Tracé_527" data-name="Tracé 527" class="cls-3" d="M-17304.672,14388.017l-30.576,11.579" transform="translate(19548 -17206)"/>
+      <path id="Tracé_528" data-name="Tracé 528" class="cls-3" d="M-17349.289,14286.121l32.568,6.948" transform="translate(19548 -17206)"/>
+      <line id="Ligne_196" data-name="Ligne 196" class="cls-3" x2="12" y2="24" transform="translate(2264.5 -2992.5)"/>
+      <path id="Tracé_529" data-name="Tracé 529" class="cls-3" d="M-17178.545,14237.5l16.209-30.115" transform="translate(19548 -17206)"/>
+      <path id="Tracé_530" data-name="Tracé 530" class="cls-3" d="M-17118.336,14311.6l31.65-14.667" transform="translate(19548 -17206)"/>
+    </g>
+    <path id="Tracé_531" data-name="Tracé 531" class="cls-3" d="M206.629,48.125l10.509,2.463-9.029,9.85h11.218V73.572l-11.218,7.66" transform="translate(-74.145 66.576)"/>
+  </g>
+</svg>

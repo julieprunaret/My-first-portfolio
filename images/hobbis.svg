@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-hobbis);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath id="clip-hobbis">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="hobbis" class="cls-1">
+    <path id="idée_illu-3" data-name="idée illu-3" class="cls-2" d="M483.158,721.257c-.043,4.762-3.185,10.8-7.564,16.3-6.538,8.185-14.836,14.264-23.734,19.609-1.771,1.063-3.617,2.019-5.42,3.034a1.458,1.458,0,0,1-1.582.054c-11.376-6.182-22.006-13.325-30.013-23.745-4.087-5.329-6.819-11.23-6.787-18.141A21.127,21.127,0,0,1,444.8,703.925c.793.859,1.128,1.026,2.046.076a21.094,21.094,0,0,1,23.345-4.789C478.024,702.408,483.169,710.156,483.158,721.257Z" transform="translate(-403.671 -687.78)"/>
+  </g>
+</svg>

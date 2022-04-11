@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-couture);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: rgba(0,0,0,0);
+      }
+    </style>
+    <clipPath id="clip-couture">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="couture" class="cls-1">
+    <g id="Groupe_260" data-name="Groupe 260" transform="translate(-9.416 -0.551)">
+      <g id="Groupe_291" data-name="Groupe 291" transform="translate(11.63 9.36)">
+        <line id="Ligne_102" data-name="Ligne 102" class="cls-2" y1="4.88" transform="translate(13.122 35.422)"/>
+        <path id="Tracé_145" data-name="Tracé 145" class="cls-3" d="M506.373,749.231a10,10,0,1,1-10-10A10,10,0,0,1,506.373,749.231Z" transform="translate(-432.497 -728.146)"/>
+        <path id="Tracé_146" data-name="Tracé 146" class="cls-3" d="M535.182,743.136a9.994,9.994,0,0,0-10-10H460.822v25.253c0,5.614,3.3,10.168,8.918,10.168s8.923-4.553,8.923-10.168v-.573H505.5v21.558h-48.74v16.872h78.421V743.76l-.029-.033C535.164,743.531,535.182,743.334,535.182,743.136Z" transform="translate(-456.761 -733.139)"/>
+        <path id="Tracé_147" data-name="Tracé 147" class="cls-3" d="M476.337,743.253a3.279,3.279,0,1,1-3.28-3.278A3.278,3.278,0,0,1,476.337,743.253Z" transform="translate(-446.096 -727.539)"/>
+        <path id="Tracé_148" data-name="Tracé 148" class="cls-3" d="M480.944,743.253a3.28,3.28,0,1,1-3.28-3.278A3.28,3.28,0,0,1,480.944,743.253Z" transform="translate(-442.323 -727.539)"/>
+        <path id="Tracé_149" data-name="Tracé 149" class="cls-3" d="M485.548,743.253a3.279,3.279,0,1,1-3.28-3.278A3.28,3.28,0,0,1,485.548,743.253Z" transform="translate(-438.55 -727.539)"/>
+        <rect id="Rectangle_192" data-name="Rectangle 192" class="cls-3" width="4.31" height="6.561" transform="translate(67.206 49.048)"/>
+      </g>
+    </g>
+  </g>
+</svg>

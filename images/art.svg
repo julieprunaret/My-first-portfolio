@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-art);
+      }
+
+      .cls-2, .cls-4 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+      }
+    </style>
+    <clipPath id="clip-art">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="art" class="cls-1">
+    <g id="Groupe_261" data-name="Groupe 261" transform="translate(9 2.705)">
+      <path id="Tracé_130" data-name="Tracé 130" class="cls-2" d="M576.917,826.045s-4.2-13.015-4.259-13.265" transform="translate(-526.216 -749.232)"/>
+      <g id="Groupe_49" data-name="Groupe 49" transform="translate(0 13.619)">
+        <rect id="Rectangle_186" data-name="Rectangle 186" class="cls-3" width="32.762" height="33.136" transform="translate(31.211)"/>
+        <rect id="Rectangle_187" data-name="Rectangle 187" class="cls-3" width="48.365" height="16.566" transform="translate(15.607 33.136)"/>
+        <rect id="Rectangle_188" data-name="Rectangle 188" class="cls-3" width="31.985" height="16.566" transform="translate(15.607 33.136)"/>
+        <rect id="Rectangle_189" data-name="Rectangle 189" class="cls-3" width="15.604" height="33.136" transform="translate(15.607)"/>
+        <rect id="Rectangle_190" data-name="Rectangle 190" class="cls-3" width="15.607" height="33.136"/>
+        <rect id="Rectangle_191" data-name="Rectangle 191" class="cls-3" width="15.607" height="16.566" transform="translate(0 33.136)"/>
+      </g>
+      <path id="Tracé_412" data-name="Tracé 412" class="cls-4" d="M554.8,742.789l-3.392-13.656h0l-3.422,13.656" transform="translate(-520.289 -729.133)"/>
+      <path id="Tracé_413" data-name="Tracé 413" class="cls-2" d="M529.754,812.78l-3.469,12.976" transform="translate(-515.074 -749.232)"/>
+    </g>
+  </g>
+</svg>

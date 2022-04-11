@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-graphisme);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-graphisme">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="graphisme" class="cls-1">
+    <g id="Groupe_311" data-name="Groupe 311" transform="translate(21 10)">
+      <g id="Groupe_99" data-name="Groupe 99" transform="translate(0 12.798)">
+        <path id="Tracé_214" data-name="Tracé 214" class="cls-2" d="M310,111.884H288.618" transform="translate(-270.02 -111.883)"/>
+        <path id="Tracé_214-2" data-name="Tracé 214" class="cls-2" d="M279.7,111.885h-8.351V179.6h58.576V111.883h-8.352" transform="translate(-271.349 -111.883)"/>
+      </g>
+      <g id="Groupe_310" data-name="Groupe 310" transform="translate(8.351 7.2)">
+        <rect id="Rectangle_343" data-name="Rectangle 343" class="cls-2" width="10.247" height="10.247"/>
+        <rect id="Rectangle_344" data-name="Rectangle 344" class="cls-2" width="10.247" height="10.247" transform="translate(31.627)"/>
+      </g>
+      <rect id="Rectangle_345" data-name="Rectangle 345" class="cls-2" width="46.231" height="49.252" transform="translate(6.172 22.033)"/>
+      <path id="Tracé_443" data-name="Tracé 443" class="cls-2" d="M285.28,163.31c.095-.57,1.992-33.588,8.064-29.793s1.519,19.356,6.926,18.882,2.373-21.253,5.788-20.3,11.2,31.215,11.2,31.215Z" transform="translate(-270.276 -97.532)"/>
+      <circle id="Ellipse_21" data-name="Ellipse 21" class="cls-2" cx="2.704" cy="2.704" r="2.704" transform="translate(11.842 28.596)"/>
+      <line id="Ligne_164" data-name="Ligne 164" class="cls-2" y1="7.2" transform="translate(13.474 0)"/>
+      <line id="Ligne_165" data-name="Ligne 165" class="cls-2" y1="7.2" transform="translate(45.101 0)"/>
+    </g>
+  </g>
+</svg>

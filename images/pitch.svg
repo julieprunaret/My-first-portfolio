@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-pitch);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-pitch">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="pitch" class="cls-1">
+    <g id="Groupe_523" data-name="Groupe 523" transform="translate(-1240.56 -541.196)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="17.786" cy="17.786" r="17.786" transform="translate(1265.56 546.196)"/>
+      <path id="Tracé_519" data-name="Tracé 519" class="cls-2" d="M1294.622,574.137l-10.475,35.528h-14.553l-1.685-39.4" transform="translate(0.297 3.047)"/>
+      <path id="Tracé_520" data-name="Tracé 520" class="cls-2" d="M1272.057,605.239V610.1h9.452v-4.858" transform="translate(0.822 7.473)"/>
+      <path id="Tracé_521" data-name="Tracé 521" class="cls-2" d="M1276.26,609.551s-2.048,13.405,15.774,11.686,22.291,7.218,22.291,7.218" transform="translate(1.345 8.019)"/>
+    </g>
+  </g>
+</svg>

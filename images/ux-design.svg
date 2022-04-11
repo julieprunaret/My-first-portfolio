@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ux-design);
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-ux-design">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="ux-design" class="cls-1">
+    <g id="Groupe_499" data-name="Groupe 499" transform="translate(-41.598 -82.39)">
+      <g id="Groupe_333" data-name="Groupe 333" transform="translate(52.598 105.244)">
+        <path id="Tracé_215" data-name="Tracé 215" class="cls-2" d="M88.071,142.3a21.264,21.264,0,1,0-27.212,1.006v14.081l9.955,7.34a6.831,6.831,0,0,0,8.322-.167l8.956-7.173Z" transform="translate(-52.598 -105.225)"/>
+        <line id="Ligne_171" data-name="Ligne 171" class="cls-3" y1="0.614" x2="27.211" transform="translate(8.262 37.468)"/>
+        <line id="Ligne_172" data-name="Ligne 172" class="cls-3" x2="32.574" transform="translate(5.591 51.358)"/>
+        <line id="Ligne_173" data-name="Ligne 173" class="cls-3" x2="32.549" transform="translate(5.591 42.403)"/>
+        <line id="Ligne_174" data-name="Ligne 174" class="cls-3" x2="32.549" transform="translate(5.591 46.881)"/>
+        <path id="Tracé_453" data-name="Tracé 453" class="cls-2" d="M67.739,162.246s1.768-1.8,6.882-1.8,7.621,1.8,7.621,1.8" transform="translate(-52.549 -105.047)"/>
+        <path id="Tracé_454" data-name="Tracé 454" class="cls-2" d="M66.556,142.631,65.5,125.524l5.483,8.554,2.834-9.723,3.527,10.162,6.36-10.162-1.861,18.277" transform="translate(-52.556 -105.163)"/>
+      </g>
+      <g id="Groupe_334" data-name="Groupe 334" transform="translate(58.035 99.39)">
+        <path id="Tracé_214" data-name="Tracé 214" class="cls-2" d="M97.194,146.889l32.64-.022v-.825L129.76,99.39,58.017,99.5l.04,6.744" transform="translate(-58.017 -99.39)"/>
+        <line id="Ligne_175" data-name="Ligne 175" class="cls-3" y1="0.02" x2="37.756" transform="translate(33.999 9.619)"/>
+        <circle id="Ellipse_22" data-name="Ellipse 22" class="cls-2" cx="0.536" cy="0.536" r="0.536" transform="translate(66.463 4.207)"/>
+        <circle id="Ellipse_23" data-name="Ellipse 23" class="cls-2" cx="0.536" cy="0.536" r="0.536" transform="translate(61.082 4.215)"/>
+        <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-2" cx="0.536" cy="0.536" r="0.536" transform="translate(55.572 4.224)"/>
+      </g>
+      <path id="Tracé_455" data-name="Tracé 455" class="cls-2" d="M99.2,116.39h23.363v19.217H99.113" transform="translate(0.15 0.055)"/>
+      <line id="Ligne_176" data-name="Ligne 176" class="cls-3" x1="20.61" y2="11.979" transform="translate(102.107 116.445)"/>
+      <line id="Ligne_177" data-name="Ligne 177" class="cls-3" x1="21.544" y1="12.521" transform="translate(101.173 123.14)"/>
+    </g>
+  </g>
+</svg>

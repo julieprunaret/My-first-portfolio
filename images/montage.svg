@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-montage);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-montage">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="montage" class="cls-1">
+    <g id="Groupe_100" data-name="Groupe 100" transform="translate(-33.967 -113.777)">
+      <path id="Tracé_216" data-name="Tracé 216" class="cls-2" d="M124.126,199.661V146.415H43.967v53.246h67.738V146.415"/>
+      <path id="Tracé_217" data-name="Tracé 217" class="cls-2" d="M73.386,136.1l10.66,10.313,18.045-18.638"/>
+      <path id="Tracé_218" data-name="Tracé 218" class="cls-2" d="M73.96,167.247V181.6l12.2-6.386Z"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="15.788" cy="15.788" r="15.788" transform="translate(62.622 158.635)"/>
+    </g>
+  </g>
+</svg>

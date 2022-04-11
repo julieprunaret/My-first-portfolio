@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-webdesign);
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0);
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-webdesign">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="webdesign" class="cls-1">
+    <g id="Groupe_330" data-name="Groupe 330" transform="translate(5 23)">
+      <g id="Groupe_65" data-name="Groupe 65" transform="translate(13.829 6.669)">
+        <path id="Tracé_180" data-name="Tracé 180" class="cls-2" d="M84.892,86.5H146.54v41.791" transform="translate(-84.892 -86.497)"/>
+      </g>
+      <path id="Tracé_182" data-name="Tracé 182" class="cls-2" d="M166.274,110.9H76.817v6.487h89.457" transform="translate(-76.817 -62.439)"/>
+      <path id="Tracé_183" data-name="Tracé 183" class="cls-2" d="M154.589,131.062V82.6H81.635v48.46" transform="translate(-73.383 -82.603)"/>
+    </g>
+  </g>
+</svg>

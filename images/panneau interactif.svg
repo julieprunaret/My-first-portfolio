@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-panneau_interactif);
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0);
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-panneau_interactif">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="panneau_interactif" data-name="panneau interactif" class="cls-1">
+    <g id="Groupe_93" data-name="Groupe 93" transform="translate(-70.805 -80.112)">
+      <path id="Tracé_202" data-name="Tracé 202" class="cls-2" d="M161.215,147.19V93.112H79.805v54.077h26.217" transform="translate(0 0)"/>
+      <path id="Tracé_203" data-name="Tracé 203" class="cls-2" d="M112.234,154.9V121.732h6.881V154.9" transform="translate(3.904 3.446)"/>
+      <path id="Tracé_204" data-name="Tracé 204" class="cls-2" d="M118.371,153.3V135.024h6.881V153.3" transform="translate(4.643 5.046)"/>
+      <path id="Tracé_205" data-name="Tracé 205" class="cls-2" d="M124.517,152.964V137.778H131.4v15.187" transform="translate(5.383 5.378)"/>
+      <path id="Tracé_206" data-name="Tracé 206" class="cls-2" d="M130.659,152.774V139.366h6.7v13.407" transform="translate(6.123 5.569)"/>
+      <path id="Tracé_207" data-name="Tracé 207" class="cls-2" d="M140.143,149.364V161.04H107.574V149.364" transform="translate(3.343 6.772)"/>
+      <path id="Tracé_208" data-name="Tracé 208" class="cls-2" d="M112.795,138.942l-5.22,2.794v20.558h5.22" transform="translate(3.343 5.518)"/>
+      <path id="Tracé_209" data-name="Tracé 209" class="cls-2" d="M106.823,132.376a16.835,16.835,0,1,1,21.54-.8" transform="translate(2.465 1.096)"/>
+      <path id="Tracé_210" data-name="Tracé 210" class="cls-2" d="M107.388,123.844a10.1,10.1,0,1,1,18.281-.595" transform="translate(3.189 1.934)"/>
+    </g>
+  </g>
+</svg>

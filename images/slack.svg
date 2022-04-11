@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-slack);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-slack">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="slack" class="cls-1">
+    <path id="slack-2" data-name="slack" class="cls-2" d="M13.4,40.31a6.7,6.7,0,1,1-6.7-6.7h6.7v6.7Zm3.378,0a6.7,6.7,0,0,1,13.4,0V57.09a6.7,6.7,0,1,1-13.4,0V40.31Zm6.7-26.908a6.7,6.7,0,1,1,6.7-6.7v6.7Zm0,3.378a6.7,6.7,0,1,1,0,13.4H6.7a6.7,6.7,0,1,1,0-13.4H23.481Zm26.905,6.7a6.7,6.7,0,1,1,6.7,6.7h-6.7v-6.7Zm-3.37,0a6.7,6.7,0,0,1-13.4,0V6.7a6.7,6.7,0,1,1,13.4,0ZM40.31,50.387a6.7,6.7,0,1,1-6.7,6.7v-6.7Zm0-3.37a6.7,6.7,0,0,1,0-13.4H57.09a6.7,6.7,0,1,1,0,13.4Z" transform="translate(9.466 9.103)"/>
+  </g>
+</svg>

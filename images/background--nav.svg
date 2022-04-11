@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="70" viewBox="0 0 2000 70">
+  <defs>
+    <clipPath id="clip-background--nav">
+      <rect width="2000" height="70"/>
+    </clipPath>
+  </defs>
+  <g id="background--nav" clip-path="url(#clip-background--nav)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="2000" height="70" fill="#fff" opacity="0.5"/>
+  </g>
+</svg>

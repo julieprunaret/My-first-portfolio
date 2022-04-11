@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="66" viewBox="0 0 50 66">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-open-lock);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+    <clipPath id="clip-open-lock">
+      <rect width="50" height="66"/>
+    </clipPath>
+  </defs>
+  <g id="open-lock" class="cls-1">
+    <g id="Groupe_570" data-name="Groupe 570" transform="matrix(0.978, -0.208, 0.208, 0.978, -311.695, 197.624)">
+      <path id="Tracé_450" data-name="Tracé 450" class="cls-2" d="M381.418-88.246A18.422,18.422,0,0,1,363-69.824a18.422,18.422,0,0,1-18.422-18.422v-12.89h36.844Z" transform="translate(0 6.97)"/>
+      <path id="Tracé_451" data-name="Tracé 451" class="cls-2" d="M346.652-94.052v-8.317a15.215,15.215,0,0,1,15.214-15.214c8.4,0,9.718,6.271,16.661-1.934" transform="translate(0.788 0)"/>
+      <path id="Tracé_452" data-name="Tracé 452" class="cls-2" d="M355.424-86.073v-8.046h6.8V-86.3" transform="translate(4.114 9.632)"/>
+    </g>
+  </g>
+</svg>

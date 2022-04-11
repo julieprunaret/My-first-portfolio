@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107" height="52" viewBox="0 0 107 52">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-formation-icon);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <clipPath id="clip-formation-icon">
+      <rect width="107" height="52"/>
+    </clipPath>
+  </defs>
+  <g id="formation-icon" class="cls-1">
+    <g id="Groupe_473" data-name="Groupe 473" transform="translate(3.875 4)">
+      <path id="Tracé_398" data-name="Tracé 398" class="cls-2" d="M63.718,106.236l28.6-10.4,47.265,17.184L92.314,129.4,45.05,113.024" transform="translate(-45.05 -95.839)"/>
+      <path id="Tracé_399" data-name="Tracé 399" class="cls-2" d="M67.426,120.776v11.465c0,3.959,11.883,7.169,26.54,7.169s26.54-3.21,26.54-7.169v-12.61" transform="translate(-45.05 -95.839)"/>
+      <path id="Tracé_400" data-name="Tracé 400" class="cls-2" d="M139.579,125.542l3.811,5.8h-7.475l3.664-5.8V113.024H92.314" transform="translate(-45.05 -95.839)"/>
+    </g>
+  </g>
+</svg>

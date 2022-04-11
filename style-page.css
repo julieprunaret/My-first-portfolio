@@ -1,0 +1,1583 @@
+body{
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+background: rgb(100,209,208);
+background: linear-gradient(180deg, rgba(100,209,208,1) 0%, rgba(72,160,159,1) 13%, rgba(178,0,46,1) 35%, rgba(178,0,46,1) 53%, rgba(58,135,127,1) 70%, rgba(178,0,46,1) 96%);
+}
+
+a{
+    color: #9AEDE8;
+    font-weight:bold
+
+}
+
+.img-site{
+  display: none;
+}
+
+.nav{
+    position: fixed; /*fixé sur la page peut importe le scroll*/
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    transition: 0.3s;
+    z-index: 3;
+}
+
+.nav.backgroundNav{
+    background-image:url(./images/background--nav.svg);
+    z-index: 3;
+    height: 40px;
+}
+
+
+
+/*menu*/
+
+.menuItems{
+
+    position: absolute;
+    left: 0px;
+    height: 100vh;
+    width: 300px;
+    background: #A60E36;
+    opacity: 0.9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.liMenu{
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    margin: 20px; 
+    border-width: 0px;
+
+}
+
+.menuCross{
+
+}
+
+#menulist{
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.contactMenu{
+margin-bottom: 10px;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#iconContact{
+    max-width: 60px;
+}
+
+
+.menubutton{
+    margin: 15px;
+    width: 30px;
+    transition: 0.3s;
+}
+
+.menubuttonlittle{
+    margin: 10px;
+    width: 20px;
+}
+
+.hide{
+    opacity: 0;
+}
+
+.crossbox{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+.menu{
+    left: -300px;
+    transition: 0.3s;
+}
+
+.menu.visible{
+    left: 0px;
+}
+
+.logo{
+    margin: 10px;
+    height: 40px;
+    transition: 0.3s;
+}
+
+.logolittle{
+    margin: 5px;
+    height: 30px;
+}
+
+
+
+button {
+    border: none;
+    background: none;
+}
+
+
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: white;
+    text-align: left;
+    font-size: 70px;
+    letter-spacing: 20px;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 25px;
+    text-orientation: mixed;
+    color: #262626;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: left;
+    font-size: 15px;
+}
+
+/* _____________________________TACHES AQUARELLE____________________________*/
+
+.aqua1{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.aquaim1{
+    max-width: 700px;
+    position: absolute;
+    z-index: -1;
+}
+
+.aqua2{
+    display: flex; 
+}
+
+.aqua3{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.aquaim2{
+    max-width: 700px;
+    position: absolute;
+    left: -300px;
+    bottom: -100px;
+    z-index: -2;
+}
+
+.aquaim4{
+    max-width: 700px;
+    position: absolute;
+    right: 200px;
+    bottom: -2000px;
+    z-index: -2;
+}
+
+.aquaim5{
+    max-width: 700px;
+    position: absolute;
+    bottom: -3000px;
+    z-index: -2;
+}
+
+
+ 
+
+
+
+/*_________________________________________________________________________
+
+ 
+                        PARTIE 1
+
+___________________________________________________________________________*/
+
+.container1{
+    width: 100%;
+    max-width: 1200px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+.wrapper1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* ----------------ARROWS------------ */
+
+.project-arrows{
+    max-height: 30px;
+    padding: 10px;
+    padding-right: 8px;
+    padding-left: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;  
+}
+
+.image-projet{
+    width: 80%;
+    height: 70%;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat:no-repeat;
+    position: relative;
+}
+
+#image-projet-robinson{background-image:url(./images/image1.jpg);}
+#image-projet-soundoffuzz{background-image:url(./images/sound-of-fuzz-face-min.jpg);}
+#image-projet-boxson{background-image:url(./images/image1-boxson.jpg);}
+#image-projet-botanic{background-image:url(./images/botanic-screen.png);}
+#image-projet-fafa{background-image:url(./images/fafa-couv.png);}
+#image-projet-sonisphere{background-image:url(./images/couv-sonisphere.jpg);}
+#image-projet-kiwi{background-image:url(./images/kiwi-couv.png);}
+#image-projet-parachute{background-image:url(./images/couv-parachute.jpg);}
+#image-projet-olympics{background-image:url(./images/olympics-couv.jpg);}
+#image-projet-ulir{background-image:url(./images/couv-ulir.png);}
+#image-projet-gusto{background-image:url(./images/couv-gusto.png);}
+#image-projet-myco{background-image:url(./images/couv-myco.png);}
+#image-projet-jeu{background-image:url(./images/couv-jeu.png);}
+
+
+.previous{
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+/* ---------------------------- */
+
+.title_text{
+    left: -50px;
+    bottom: -80px;
+    position: absolute;
+}
+
+.image-prune1{
+    right: 10px;
+    bottom: 0px;
+    position: absolute;
+    max-height: 100px;
+}
+
+
+
+@media screen and (min-width: 640px){
+
+      .image-prune1-mobile{
+        display: none;
+    }
+
+}
+
+
+@media screen and (max-width: 640px){
+
+    h1{
+        font-size: 50px;
+        letter-spacing: 8px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+
+    .image-projet{
+        width: 80%;
+        height: 60%;
+    }
+
+    .title_text{
+        left: -20px;
+        bottom: -20px;
+        position: absolute;
+        border-width: 2px;
+        border-style: solid;
+        border-color: white;
+        padding-left: 10px;
+        padding-right: 10px: 
+    }
+
+    .image-prune1{
+        display: none;
+    }
+
+      .image-prune1-mobile{
+        left: 10px;
+        bottom: 130px;
+        position: absolute;
+        max-height: 70px;
+    }
+
+}
+
+
+
+/*_________________________________________________________________________
+
+ 
+                        SEPARATOR
+
+___________________________________________________________________________*/
+
+
+
+
+.separator{
+    height: 250px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+
+#patate{
+    height: 250px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+#patate2{
+    height: 250px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+
+#patate3{
+    height: 100px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+
+.cases{
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+
+.case1{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+
+.separator_icon{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    padding: 10px;
+    height: 22px;
+    width: 22px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+}
+
+.separator_icon-box2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+.separator_icon-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.separator_icon2{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    padding: 10px;
+    height: 22px;
+    width: 22px;
+}
+
+.separator-work{
+    margin-right: 10px;
+}
+
+.dot{
+    opacity: 0;
+}
+
+
+
+
+/*_________________________________________________________________________
+
+ 
+                                sommaire
+
+___________________________________________________________________________*/
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+    min-height: 100vh;
+    margin: auto;
+}
+
+.parachute{
+    align-items: center;
+} 
+
+.wrapper2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center; 
+    width: 100%;
+}
+
+#contenu{
+    margin-top: 100px;
+}
+
+.box-global-sommaire-explication{
+    width: 80%;
+}
+
+ul{
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;    
+    list-style: none; /* Remove list bullets */
+    padding: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+li{
+
+    width: 20%;
+    height: 150px;
+    margin: 10px; 
+}
+
+
+
+
+    .sommaire-img1{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat:no-repeat;
+    }
+
+    #sommaire-img1-robinson{ background-image:url(./images/image1.jpg); }
+    #sommaire-img1-sof{ background-image:url(./images/poster-soundoffuzz.jpg); }
+    #sommaire-img1-boxson{ background-image:url(./images/charte-boxson-som.png); }
+    #sommaire-img1-botanic{ background-image:url(./images/conception-botanic.jpg); }
+    #sommaire-img1-fafa{ background-image:url(./images/maquettes-fafa.png); }
+    #sommaire-img1-sonisphere{ background-image:url(./images/zoom-sonisphere3.jpg); }
+    #sommaire-img1-kiwi{ background-image:url(./images/maquette-kiwi1.png); }
+    #sommaire-img1-parachute{ background-image:url(./images/charte-parachute2.png); }
+    #sommaire-img1-olympics{ background-image:url(./images/app-olympics.png); }
+    #sommaire-img1-ulir{ background-image:url(./images/ulir-box.png); }
+    #sommaire-img1-gusto{ background-image:url(./images/jam-affiche.png); }
+    #sommaire-img1-myco{ background-image:url(./images/module.png); }
+
+
+    .sommaire-img2{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat:no-repeat;
+    }
+
+    #sommaire-img2-robinson{ background-image:url(./images/image2.jpg); }
+    #sommaire-img2-sof{ background-image:url(./images/image-couv-soundoffuzz.jpg); }
+    #sommaire-img2-boxson{ background-image:url(./images/construction-boxson.png); }
+    #sommaire-img2-botanic{ background-image:url(./images/botanic-screen.png); }
+    #sommaire-img2-fafa{ background-image:url(./images/tests.png); }
+    #sommaire-img2-sonisphere{ background-image:url(./images/screens-sonisphere.jpg); }
+    #sommaire-img2-kiwi{ background-image:url(./images/dataviz-zoom6.png); }
+    #sommaire-img2-parachute{ background-image:url(./images/parachute-appli.jpg); }
+    #sommaire-img2-olympics{ background-image:url(./images/olympic-app.jpg); }
+    #sommaire-img2-ulir{ background-image:url(./images/ulir-regles3.png); }
+    #sommaire-img2-gusto{ background-image:url(./images/app-gusto.png); }
+    #sommaire-img2-myco{ background-image:url(./images/application-myco.png); }
+
+    .sommaire-img3{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat:no-repeat;
+    }
+
+    #sommaire-img3-robinson{ background-image:url(./images/image3.jpg); }
+    #sommaire-img3-sof{ background-image:url(./images/clip-soundoffuzz.png); }
+    #sommaire-img3-boxson{ background-image:url(./images/mackbook-boxson.jpg); }
+    #sommaire-img3-botanic{ background-image:url(./images/botanic-element-3.png); }
+    #sommaire-img3-fafa{ background-image:url(./images/demonstration.png); }
+    #sommaire-img3-sonisphere{ background-image:url(./images/affiche.jpg); }
+    #sommaire-img3-kiwi{ background-image:url(./images/kiwi-affiche.jpg); }
+    #sommaire-img3-parachute{ background-image:url(./images/objet-co.jpg); }
+    #sommaire-img3-olympics{ background-image:url(./images/hackaton1.jpg); }
+    #sommaire-img3-ulir{ background-image:url(./images/test-jeu1.jpg); }
+    #sommaire-img3-gusto{ background-image:url(./images/gusto-pitch.png); }
+    #sommaire-img3-myco{ background-image:url(./images/sites.png); }
+
+
+    .sommaire-img4{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat:no-repeat;
+    }
+
+    #sommaire-img4-robinson{ background-image:url(./images/image4.jpg); }
+    #sommaire-img4-ulir{ background-image:url(./images/affiche-ulir-cadre.jpg); }
+
+    .sommaire-img5{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat:no-repeat;
+    }
+
+    #sommaire-img5-robinson{ background-image:url(./images/image5.jpg); }
+
+
+.nom-image{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+a:link
+{
+text-decoration:none;
+} 
+
+.explication{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-top: 100px;
+}
+
+.explication_box{
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.pop-up_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+
+.pop-up_icons{
+    margin: 8px;
+    max-height: 25px;
+}
+
+.explication_text{
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+
+.h2_pop-up{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+
+
+
+@media screen and (min-width: 640px){
+
+}
+
+
+@media screen and (max-width: 640px){
+ul{
+    flex-direction: column;
+
+}
+
+    li{
+    width: 100%;
+    height: 100px;
+    margin: 5px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+p{
+    margin-top: 5px;
+}
+
+.box-global-sommaire-explication{
+    max-width: 90%;
+}
+
+}
+
+
+
+.explication-interne{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-bottom: 100px;
+}
+
+
+
+
+/*_________________________________________________________________________
+
+ 
+                                CONTENU
+
+___________________________________________________________________________*/
+
+
+/* conception*/
+.conception{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.conception_items{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conception_img{
+    height: 300px;
+    width: 33%;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat:no-repeat;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.conception_img-bis{
+    height: 300px;
+    width: 50%;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat:no-repeat;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#img1-robinson{
+    background-image:url(./images/robinson-conception4.jpg);
+    margin-left: 0px;
+}
+#img1-sof{
+    background-image:url(./images/conception-sof2.jpg);
+    margin-left: 0px;
+}
+#img1-boxson{
+    background-image:url(./images/conception-boxson1.jpg);
+    margin-left: 0px;
+}
+#img1-botanic{
+    background-image:url(./images/conception-botanic.jpg);
+    margin-left: 0px;
+}
+#img1-fafa{
+    background-image:url(./images/conception-fafa1.png);
+    margin-left: 0px;
+}
+#img1-sonisphere{
+    background-image:url(./images/Conception-sonisphere.jpg);
+    margin-left: 0px;
+}
+#img1-hackaton{
+    background-image:url(./images/hackaton-demi1.jpg);
+    margin-left: 0px;
+}
+
+
+
+
+
+
+#img2-robinson{
+    background-image:url(./images/robinson-conception1.jpg);
+}
+#img2-sof{
+    background-image:url(./images/conception-sof1.jpg);
+    margin-left: 0px;
+}
+#img2-boxson{
+    background-image:url(./images/conception-boxson2.jpg);
+    margin-left: 0px;
+}
+#img2-botanic{
+    background-image:url(./images/conception-botanic2.jpg);
+    margin-left: 0px;
+}
+#img2-fafa{
+    background-image:url(./images/conception-fafa2.png);
+    margin-left: 0px;
+}
+#img2-sonisphere{
+    background-image:url(./images/Conception-sonisphere2.jpg);
+    margin-left: 10px;
+    margin-right: 0px;
+}
+#img2-hackaton{
+    background-image:url(./images/hackaton-demi2.jpg);
+    margin-left: 0px;
+}
+
+
+#img3-robinson{
+    background-image:url(./images/robinson-conception3.jpg);
+    margin-right: 0px;
+}
+#img3-sof{
+    background-image:url(./images/conception-sof3.jpg);
+    margin-left: 0px;
+}
+#img3-boxson{
+    background-image:url(./images/boxson-conceptionnb-min.jpg);
+    margin-left: 0px;
+}
+#img3-fafa{
+    background-image:url(./images/conception-fafa3.png);
+    margin-left: 0px;
+}
+#img3-sonisphere{
+    background-image:url(./images/zoom-sonisphere1.jpg);
+    margin-left: 0px;
+}
+
+
+
+
+#img4-sof{
+    background-image:url(./images/distribution-sof-1.jpg);
+    margin-left: 0px;
+}
+#img5-sof{
+    background-image:url(./images/distribution-sof-3.jpg);
+    margin-left: 0px;
+}
+#img6-sof{
+    background-image:url(./images/distribution-sof-2.jpg);
+    margin-left: 0px;
+}
+#img7-sof{
+    background-image:url(./images/conception-sof4.jpg);
+    margin-left: 0px;
+}
+#img8-sof{
+    background-image:url(./images/sound-of-fuzz-face-min.jpg);
+    margin-left: 0px;
+}
+#img9-sof{
+    background-image:url(./images/tshirt.jpg);
+    margin-left: 0px;
+}
+#img10-sof{
+    background-image:url(./images/cds.jpg);
+    margin-left: 0px;
+}
+
+
+
+
+#img4-botanic{
+    background-image:url(./images/botanic-element-1.png);
+    margin-left: 0px;
+}
+#img5-botanic{
+    background-image:url(./images/botanic-element-2.png);
+    margin-left: 0px;
+}
+#img6-botanic{
+    background-image:url(./images/botanic-element-3.png);
+    margin-left: 0px;
+}
+
+
+
+
+#img4-sonisphere{
+    background-image:url(./images/zoom-sonisphere2.jpg);
+    margin-left: 0px;
+}
+#img5-sonisphere{
+    background-image:url(./images/zoom-sonisphere3.jpg);
+    margin-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.video{
+    margin-top: 10px;
+    width: 80%; 
+    min-height: auto;
+    margin-bottom: 100px;
+}
+
+.video_desktop{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.video-app{
+    margin: 20px;
+}
+
+#video-botanic{
+    margin-bottom: 0px;
+}
+
+#video-boxson{
+    width: 100%; 
+    margin-bottom: 0px;
+}
+
+.video-botanic{
+    width: 80%; 
+}
+
+
+.conception_legend-position{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+
+.forimage{
+        width: 80%;
+
+}
+
+
+@media screen and (max-width: 640px){
+
+    .conception_items{
+        flex-direction: column;
+    }
+    .conception_img{
+        height: 250px;
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 15px;
+    }
+    .video{
+        width: 100%; 
+
+    }
+.video-botanic{
+    width: 100%; 
+}
+
+#video-boxson{
+    margin-bottom: 0px; 
+}
+}
+
+
+
+
+
+/*projet*/
+
+figure{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+
+    figcaption{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-bottom: 7px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: right;
+    font-size: 15px;
+    }
+
+    .imagecontent{
+        height: auto;
+        width: 80%;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .legend-position{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    }
+
+
+
+@media screen and (max-width: 640px){
+    .imagecontent{
+        width: 100%;
+    }
+
+figure{
+
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+    .legend-position{
+    width: 80%;
+    }
+}
+
+
+
+
+/*_________________________________________________________________________
+
+ 
+                                level-up
+
+___________________________________________________________________________*/
+
+
+
+.level-up{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.level-up-text-icon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.openlock{
+    max-height: 50px; 
+}
+
+
+.elements-box{
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.lock-bigbigbbox{
+    margin-top: 100px; 
+    margin-bottom: 100px;
+}
+
+
+
+.lock-box-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.lock-element{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-height: 70px;
+    margin: 10px;
+}
+
+.lock-txt{
+    margin-top: 8px;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.lock-img{
+    max-width: 60px;
+    max-height: 60px;
+    min-width: 50px;
+    min-height: 50px;
+}
+
+
+.competences-img{
+    max-width: 40px;
+    max-height: 40px;
+    margin-right: 20px;
+}
+
+.title-text{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.lock-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.lock{
+    max-width: 40px;
+    max-height: 40px;
+    margin-right: 10px;
+    min-height: 30px;
+}
+
+.icon-level-up{
+    max-height: 100px;
+    margin: 15px;
+}
+
+
+
+
+@media screen and (max-width: 640px){
+
+
+        .lock-box-content{
+            width: 50%;
+        }
+
+        .elements-box{
+        width: 250px;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        }
+
+        .title-text{
+            margin-top: 0px;
+            margin-bottom: 0px;
+            text-align: center;
+        }  
+
+        .level-up-text-icon{
+            justify-content: center;
+            flex-wrap: wrap;
+            width: 250px;
+        }
+
+        #title{
+            text-align: center;
+        }
+
+
+}
+
+
+/*_________________________________________________________________________
+
+ 
+                                INFLUENCES
+
+___________________________________________________________________________*/
+
+
+
+.wrapper-wall{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+
+
+
+}
+
+.bigbox{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-content: stretch;;
+    margin: 50px;
+}
+
+
+.wall_top{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    border-bottom-width: 0px;
+}
+
+.helloworld_icons{
+    margin: 8px;
+    max-height: 25px;
+}
+
+.image-wall{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+
+.image-wall-robinson{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue2.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.image-wall-soundoffuzz{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue3.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.image-wall-botanic{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue4.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.image-wall-fafa{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue5.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.image-wall-sonisphere{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue6.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.image-wall-kiwi{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue7.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.image-wall-parachute{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue8.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+
+.image-wall-olympics{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue10.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+.image-wall-ulir{
+    width: 100%;
+    height: 89.3%;
+    background-image: url(./images/hotglue9.png);
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+
+.ext-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#h2-wall{
+    text-align: left;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.prune-home4{
+    max-height: 100px;
+    margin-left: 10px;
+}
+
+/* .arrow-wall{
+    max-height: 50px;
+    margin-left: 10px;
+} */
+
+@media screen and (min-width: 1000px){
+#h2-wall{
+    text-align: left;
+    margin-top: 30px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+}
+
+@media screen and (max-width: 1000px){
+    .bloc{
+    max-height: 200px;   
+    }
+}
+
+@media screen and (max-width: 600px){
+    .image-wall{
+    height: 85%;   
+    }
+
+    .conception_img-bis {
+
+        height: 250px;
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 10px;
+
+}
+}
+
+
+.bloc {
+    display: flex;
+    align-items: stretch;
+    position: relative;
+    width: 80%;
+
+    max-height: 400px;
+    max-width: 600px;
+}
+
+.bloc::after {
+    content: '';
+    display: block;
+    padding-bottom: 100%;
+}
+
+.bloc .content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.txt-wall{
+    margin: 8px;
+}
+
+
+
+
+
+
+/*_________________________________________________________________________
+
+ 
+                                GO TOP
+
+___________________________________________________________________________*/
+.separator_icon-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.separator_icon{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    padding: 10px;
+    height: 22px;
+    width: 22px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+}
+
+
+.go-top{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+}
+
+.top{
+    color: #262626;
+    margin: 5px;
+}
+
+a:link 
+{ 
+    text-decoration:none; 
+}
+
+#article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*_________________________________________________________________________
+
+ 
+                                FOOTER
+
+___________________________________________________________________________*/
+
+
+    .contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .icon-contact{
+        max-height: 35px;
+    }
+
+    footer {
+        width: 100%;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #499194;
+    }
+
+
+

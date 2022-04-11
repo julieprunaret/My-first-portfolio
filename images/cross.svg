@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="39" viewBox="0 0 46 39">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-cross);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <clipPath id="clip-cross">
+      <rect width="46" height="39"/>
+    </clipPath>
+  </defs>
+  <g id="cross" class="cls-1">
+    <g id="Groupe_176" data-name="Groupe 176" transform="translate(7.082 3.95)">
+      <rect id="Rectangle_296" data-name="Rectangle 296" class="cls-2" width="32.759" height="32.245"/>
+      <g id="Groupe_175" data-name="Groupe 175" transform="translate(7.367 7.769)">
+        <line id="Ligne_148" data-name="Ligne 148" class="cls-2" x2="18.026" y2="16.708"/>
+        <line id="Ligne_149" data-name="Ligne 149" class="cls-2" x1="18.026" y2="16.708"/>
+      </g>
+    </g>
+  </g>
+</svg>

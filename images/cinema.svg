@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-cinema);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <clipPath id="clip-cinema">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="cinema" class="cls-1">
+    <g id="Groupe_258" data-name="Groupe 258" transform="translate(3.917 3.496)">
+      <path id="Tracé_136" data-name="Tracé 136" class="cls-2" d="M-72.2,29.1h1.911l-8.729,8.933H-103.97L-112.7,29.1h2.07" transform="translate(128 36.386)"/>
+      <path id="Tracé_136-2" data-name="Tracé 136" class="cls-2" d="M-100.907,29.1h24.482" transform="translate(125.284 36.386)"/>
+      <path id="Tracé_137" data-name="Tracé 137" class="cls-2" d="M-76.413,29.1h-24.443" transform="translate(125.272 36.385)"/>
+      <path id="Tracé_137-2" data-name="Tracé 137" class="cls-2" d="M-81.643-51.618c31.734,1.148,23.6,35.288,23.6,35.288l12.282,26.849H-65.053" transform="translate(120.849 54.972)"/>
+      <path id="Tracé_137-3" data-name="Tracé 137" class="cls-2" d="M-115.16,10.53h-17.416L-120.2-16.295s-8.084-33.563,22.671-35.273" transform="translate(132.576 54.96)"/>
+      <path id="Tracé_143" data-name="Tracé 143" class="cls-2" d="M-61.949,26.063A3.757,3.757,0,0,1-65.7,29.822a3.757,3.757,0,0,1-3.759-3.755,3.757,3.757,0,0,1,3.755-3.759h0A3.759,3.759,0,0,1-61.949,26.063Z" transform="translate(118.044 37.95)"/>
+      <path id="Tracé_411" data-name="Tracé 411" class="cls-2" d="M-102.828,26.063a3.757,3.757,0,0,1-3.755,3.759,3.757,3.757,0,0,1-3.759-3.755,3.757,3.757,0,0,1,3.755-3.759h0A3.758,3.758,0,0,1-102.828,26.063Z" transform="translate(127.457 37.95)"/>
+      <path id="Union_2" data-name="Union 2" class="cls-2" d="M-110.341,20.382a3.758,3.758,0,0,1,3.762-3.754,3.755,3.755,0,0,1,3.2,1.79l5.444-8.674,7.61-12.109,7.6,12.11,4.989,7.945a3.757,3.757,0,0,1,5.312.074,3.757,3.757,0,0,1-.074,5.312A3.757,3.757,0,0,1-77.809,23a3.764,3.764,0,0,1-.762-1.145h-24.557a3.757,3.757,0,0,1-4.929,1.983,3.756,3.756,0,0,1-1.983-1.983A3.75,3.75,0,0,1-110.341,20.382Z" transform="translate(127.456 43.632)"/>
+      <path id="Tracé_138" data-name="Tracé 138" class="cls-2" d="M-87.043-27.036V-55.975h4.157v27.527" transform="translate(122.092 55.975)"/>
+      <path id="Tracé_139" data-name="Tracé 139" class="cls-2" d="M-66.182-10.848c-2.825-7.5-12.024-27.089-25.615-8.328-15.111-7.72-22.473,3.7-24.9,8.84" transform="translate(128.919 49.32)"/>
+      <path id="Tracé_140" data-name="Tracé 140" class="cls-2" d="M-66.208-10.48a6.653,6.653,0,0,1-6.653,6.653,6.653,6.653,0,0,1-6.653-6.653,6.653,6.653,0,0,1,6.653-6.653,6.652,6.652,0,0,1,6.653,6.653Z" transform="translate(120.359 47.032)"/>
+      <path id="Tracé_141" data-name="Tracé 141" class="cls-2" d="M-92.155-10.48a6.653,6.653,0,0,1-6.653,6.653,6.653,6.653,0,0,1-6.653-6.653,6.653,6.653,0,0,1,6.653-6.653,6.652,6.652,0,0,1,6.653,6.653Z" transform="translate(126.333 47.032)"/>
+      <line id="Ligne_99" data-name="Ligne 99" class="cls-2" y2="23.106" transform="translate(37.127 42.382)"/>
+      <line id="Ligne_100" data-name="Ligne 100" class="cls-2" y2="15.127" transform="translate(42.74 50.362)"/>
+      <line id="Ligne_101" data-name="Ligne 101" class="cls-2" y2="15.127" transform="translate(31.513 50.362)"/>
+    </g>
+  </g>
+</svg>

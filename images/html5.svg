@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="80" viewBox="0 0 82 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-html5);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-html5">
+      <rect width="82" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="html5" class="cls-1">
+    <path id="html5-2" data-name="html5" class="cls-2" d="M1.5,0H71.7L65.311,72.077l-28.79,8.146L7.894,72.074ZM25,32.591l-.775-9.085,33.624.01.769-8.764-44.043-.01L16.91,41.516h30.5l-1.09,11.452L36.6,55.655,26.72,52.948l-.628-7.053H17.371l1.1,13.942L36.6,64.684l17.98-4.823,2.487-27.266H25Z" transform="translate(4.68 -0.224)"/>
+  </g>
+</svg>

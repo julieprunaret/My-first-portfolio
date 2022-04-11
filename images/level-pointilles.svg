@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="381" viewBox="0 0 42 381">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-level-pointilles);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+        stroke-dasharray: 9;
+      }
+    </style>
+    <clipPath id="clip-level-pointilles">
+      <rect width="42" height="381"/>
+    </clipPath>
+  </defs>
+  <g id="level-pointilles" class="cls-1">
+    <path id="Tracé_397" data-name="Tracé 397" class="cls-2" d="M-1778,15573.273h28v-354.289h-28" transform="translate(1785 -15207.623)"/>
+  </g>
+</svg>

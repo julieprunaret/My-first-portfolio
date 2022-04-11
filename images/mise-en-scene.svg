@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-mise_en_scene);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-mise_en_scene">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="mise_en_scene" data-name="mise en scene" class="cls-1">
+    <g id="Groupe_99" data-name="Groupe 99" transform="translate(14 22)">
+      <path id="Tracé_214" data-name="Tracé 214" class="cls-2" d="M18.023,30.732v45.43H89.535v-47.5H66.509V19.373H42.9v9.714H31.912V23.618H23.521v5.869h-5.5Z" transform="translate(-18.021 -19.373)"/>
+      <path id="Tracé_215" data-name="Tracé 215" class="cls-2" d="M63.64,40.709a14.783,14.783,0,1,1-18.926.7" transform="translate(-18.021 -19.373)"/>
+    </g>
+  </g>
+</svg>

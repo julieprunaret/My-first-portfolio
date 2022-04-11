@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="46" viewBox="0 0 43 46">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-plus-icon);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="clip-plus-icon">
+      <rect width="43" height="46"/>
+    </clipPath>
+  </defs>
+  <g id="plus-icon" class="cls-1">
+    <g id="Groupe_470" data-name="Groupe 470" transform="translate(5 7)">
+      <rect id="Rectangle_296" data-name="Rectangle 296" class="cls-2" width="32.759" height="32.245"/>
+    </g>
+    <line id="Ligne_193" data-name="Ligne 193" class="cls-3" y2="19" transform="translate(20.5 13.5)"/>
+    <line id="Ligne_194" data-name="Ligne 194" class="cls-3" x2="20" transform="translate(10.5 23.5)"/>
+  </g>
+</svg>

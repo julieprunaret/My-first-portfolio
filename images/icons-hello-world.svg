@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140.258" height="35.759" viewBox="0 0 140.258 35.759">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-1 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Groupe_447" data-name="Groupe 447" transform="translate(1.5 1.5)">
+    <g id="Groupe_174" data-name="Groupe 174" transform="translate(51.911 0.514)">
+      <rect id="Rectangle_293" data-name="Rectangle 293" class="cls-1" width="32.755" height="32.245"/>
+      <g id="Groupe_173" data-name="Groupe 173" transform="translate(6.885 8.307)">
+        <path id="Tracé_243" data-name="Tracé 243" class="cls-2" d="M0,0H12.658V10.422H6.51V4.946H0Z" transform="translate(6.327)"/>
+        <rect id="Rectangle_295" data-name="Rectangle 295" class="cls-1" width="12.658" height="10.422" transform="translate(0 5.211)"/>
+      </g>
+    </g>
+    <g id="Groupe_176" data-name="Groupe 176" transform="translate(104.498 0.506)">
+      <rect id="Rectangle_296" data-name="Rectangle 296" class="cls-1" width="32.759" height="32.245"/>
+      <g id="Groupe_175" data-name="Groupe 175" transform="translate(7.367 7.769)">
+        <line id="Ligne_148" data-name="Ligne 148" class="cls-1" x2="18.026" y2="16.708"/>
+        <line id="Ligne_149" data-name="Ligne 149" class="cls-1" x1="18.026" y2="16.708"/>
+      </g>
+    </g>
+    <g id="Groupe_177" data-name="Groupe 177">
+      <rect id="Rectangle_297" data-name="Rectangle 297" class="cls-1" width="32.759" height="32.245"/>
+      <line id="Ligne_150" data-name="Ligne 150" class="cls-1" x2="16.476" transform="translate(8.142 16.123)"/>
+    </g>
+  </g>
+</svg>

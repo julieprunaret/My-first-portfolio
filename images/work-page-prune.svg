@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="149" viewBox="0 0 93 149">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-work-page-prune);
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-8 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        stroke-width: 4px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke-width: 3px;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-work-page-prune">
+      <rect width="93" height="149"/>
+    </clipPath>
+  </defs>
+  <g id="work-page-prune" class="cls-1">
+    <g id="Groupe_571" data-name="Groupe 571" transform="translate(5.745 15.772)">
+      <g id="Groupe_295" data-name="Groupe 295" transform="translate(0 19.717)">
+        <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-2" cx="40.255" cy="40.255" r="40.255" transform="translate(0 -10)"/>
+        <g id="Ellipse_19" data-name="Ellipse 19" class="cls-3" transform="translate(31.077 78.466)">
+          <ellipse class="cls-7" cx="11.813" cy="10.871" rx="11.813" ry="10.871"/>
+          <ellipse class="cls-8" cx="11.813" cy="10.871" rx="9.813" ry="8.871"/>
+        </g>
+        <path id="Tracé_424" data-name="Tracé 424" class="cls-2" d="M-22.463,1883.284a8.635,8.635,0,0,0-8.634-8.634,8.634,8.634,0,0,0-8.634,8.634Z" transform="matrix(0.951, -0.309, 0.309, 0.951, -493.354, -1690.642)"/>
+        <path id="Tracé_425" data-name="Tracé 425" class="cls-2" d="M15.957,11.936A8.634,8.634,0,0,0,0,5.337Z" transform="translate(15.019 92.645) rotate(11)"/>
+        <circle id="Ellipse_28" data-name="Ellipse 28" class="cls-4" cx="5" cy="5" r="5" transform="translate(11.253 16.51)"/>
+        <circle id="Ellipse_29" data-name="Ellipse 29" class="cls-4" cx="5" cy="5" r="5" transform="translate(26.253 16.51)"/>
+      </g>
+      <path id="Tracé_426" data-name="Tracé 426" class="cls-5" d="M205.056,28.606l11.051-8.035" transform="translate(-151.992 75.218)"/>
+      <path id="Tracé_427" data-name="Tracé 427" class="cls-5" d="M171.341,20.589l8.373,5.948" transform="translate(-146.068 77.064)"/>
+      <line id="Ligne_187" data-name="Ligne 187" class="cls-6" y1="24" x2="4" transform="translate(41.753 -14.272)"/>
+    </g>
+  </g>
+</svg>

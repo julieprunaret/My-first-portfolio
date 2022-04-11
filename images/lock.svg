@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-lock);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-lock">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="lock" class="cls-1">
+    <g id="Groupe_314" data-name="Groupe 314" transform="translate(75.472 40.774)">
+      <path id="Tracé_186" data-name="Tracé 186" class="cls-2" d="M-6.105,1.651v-5.44A19.006,19.006,0,0,0-25.09-22.774,19.008,19.008,0,0,0-44.075-3.789v5.44h-4.4V18.625A23.559,23.559,0,0,0-24.94,42.157,23.261,23.261,0,0,0-1.706,18.923V1.651Zm-35.18-5.44a16.213,16.213,0,0,1,16.2-16.2A16.213,16.213,0,0,1-8.9-3.789v5.44h-32.39ZM-4.5,18.923A20.47,20.47,0,0,1-24.94,39.367,20.765,20.765,0,0,1-45.682,18.625V4.441H-4.5Z" transform="translate(0 0)"/>
+      <path id="Tracé_187" data-name="Tracé 187" class="cls-2" d="M-30.976-9.365h-2.79V-.882H-39.33V-9.365h-2.79V1.908h11.144Z" transform="translate(11.369 24.001)"/>
+    </g>
+  </g>
+</svg>

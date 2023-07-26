@@ -4,7 +4,7 @@
 Tout premier projet de développement (HTML / CSS / JS / SEO / Mise en ligne)
 ## Leçon retenue
 
-  | PROJET HTML/CSS/JS en autodidacte | 
+  | PROJET HTML/CSS/JS en autodidacte |
   
 Ce projet est le tout premier que j'ai développé.
 Il n'est pas optimisé, le code est mal organisé, les fichiers de css/htm/javascript sont au même niveau.
